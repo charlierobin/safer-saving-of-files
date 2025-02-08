@@ -34,3 +34,4 @@ I had the vague idea of there being a callback once the initial temp save was do
 
 When I get a moment I’ll sort out the move to trash so that it uses the correct system API calls (`recycleURLs:completionHandler:`), rather than being the bodge it is at the moment.
 
+https://developer.apple.com/documentation/appkit/nsworkspace/recycle(_:completionhandler:)?language=objc
